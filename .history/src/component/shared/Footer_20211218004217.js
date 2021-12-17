@@ -11,7 +11,7 @@ const Footer = () => {
      <Col> <img src="https://uk.sodexo.com/files/live/sites/com-global/files/01%20Logo/SAM-Gold-2020.png" alt="" /></Col> 
       <Col> <h5 className="text-light"> All our <br /> awards </h5> </Col> </Row>
       <Row className="bg-dark text-light">
-         <div className="d-flex me-3 mt-4">
+         <div className="d-flex me-3 mt-">
         <p className="ms-3">Contact us</p>
         <p className="ms-3">Legal & Privacy</p>
         <p className="ms-3">Data Protection policy</p>

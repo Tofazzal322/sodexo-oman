@@ -11,7 +11,7 @@ const Banner = () => {
         <img className="d-block w-100" src={bannerImg2} alt="First slide" />
         <Carousel.Caption>
           <h3>Vital Spaces</h3>
-          <p>Transforming Workplaces with Vital Spaces. Transformation That Empowers Your People</p>
+          <p>Transforming Workplaces with Vital Spaces</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>

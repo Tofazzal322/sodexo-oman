@@ -11,7 +11,8 @@ const Banner = () => {
         <img className="d-block w-100" src={bannerImg2} alt="First slide" />
         <Carousel.Caption>
           <h3>Vital Spaces</h3>
-          <p>Transforming Workplaces with Vital Spaces. Transformation That Empowers Your People</p>
+          <p>
+Transforming Workplaces with Vital Spaces</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -19,9 +20,7 @@ const Banner = () => {
 
         <Carousel.Caption>
           <h3>Food waste</h3>
-          <p>
-            Food should be eaten, not wasted. Preventing food waste at source
-          </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -30,8 +29,7 @@ const Banner = () => {
         <Carousel.Caption>
           <h3>Protected</h3>
           <p>
-            Infection Prevention with Protecta.The latest solution for infection
-            prevention
+            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>
         </Carousel.Caption>
       </Carousel.Item>
