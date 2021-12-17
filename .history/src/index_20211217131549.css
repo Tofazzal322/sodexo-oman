@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.join-us-container{
+  /* position: relative; */
+  /* height: 400px !important; */
+  
+}
+
+.joinUs-container{
+  margin-bottom: 50px;
+}
+
+.text-box-full{
+  /* position: absolute; */
+  width: 100%;
+  height: 400px;
+  /* background-color: rgb(215, 219, 223); */
+  /* margin-top: -420px; */
+}
+.text-box{
+  border-radius: 10px;
+  padding: 20px;
+  /* position: relative; */
+  height: 300px;
+  width: 500px;
+  background-color: aliceblue;
+  /* margin-bottom: 50px !important; */
+  /* margin-top: 50px; */
+}
+.title-1{
+  color: #283897;
+}
+
+.button-color{
+  background-color: #283897 !important;
+}
+
+.news-bg{
+  background-color: #283897;
+  padding: 10px;
+}
+
+.register-container{
+  width: 600px !important;
+  height: 100vh;
+}
+
+.github-btn{
+  background-color: black !important;
+}
+
+.carousel-container{
+  margin-bottom: 50px;
+  /* height: 250px ; */
+  padding: 10px;
+  /* background-color: aqua; */
+}
+
+.news-card{
+  width: 100%;
+  height: 200px !important;
+}
+
+.more-btn{
+  position: sticky;
+  color: rgb(255, 0, 43);
+  font-weight: 600;
+  /* margin-top: 20px; */
+  text-decoration: none;
+  border: 2px solid rgb(23, 139, 233);
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  /* background-color: aquamarine; */
+}
+
+.subcategory-text{
+  position: sticky;
+  background-color: rgb(169, 193, 238);
+  color: rgb(27, 76, 238);
+   padding: 3px ;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 25px;
+  text-align: left !important;
+  margin-right: 20px;
+}
+
+.inspired-card{
+  width: 100%;
+  height: 400px !important;
+}
+
+.inspired-carousel{
+  /* background-position: bottom 10px right 20px; */
+  color: #283897;
+  /* background-color: black; */
+  margin-bottom: 50px;
+  /* height: 450px ; */
+}
+
+.inspired-container{
+  
+  /* position:absolute; */
+  /* position: relative; */
+  
+}
+
+.inspired-title{
+text-align: center;
+  font-size: 3.5rem;
+  margin-bottom: 50px;
+}
+
+.text-decoration{
+  color: #283897;
+  text-decoration: none !important;
+}
+.container-full-height{
+  width: 100%;
+  height: 100vh;
+}
+
+.footer-main-container{
+  position:sticky;
+  background-color:#283897 ;
+}
+
+.joinUs-container{
+  background-image: url('https://uk.sodexo.com/files/live/sites/com-global/files/16%20Miscellaneous/Join-us-bloc2_1584_1282px.jpg?t=thumbnail1280');
+}
+
+.food-banner-title{
+  width: 600px;
+  padding: 50px;
+  border-radius: 20px 20px 0px 0px;
+  background: #ffffff !important;
+  margin-top: 196px;
+  margin-left: 50px;
+}
+
+.food-banner-bg{
+  background-image: url('https://uk.sodexo.com/files/live/sites/com-global/files/00_Brand_Roll_Out/page_headers/Food_1584x480px.jpg');
+  height: 400px;
+}
+
+.food-banner-main{
+  position: absolute;
+}
+
+.horizontal-line{
+  background-color: ;
+  height: 10px;
+}

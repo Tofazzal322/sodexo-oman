@@ -1,0 +1,19 @@
+import React from 'react';
+
+const PersonalServicesBanner = () => {
+    return (
+          <div className="property-banner-bg">
+      <div className="food-banner-main">
+        <div className="food-banner-title ">
+          <h1 className="title-1 fw-bold ">
+           A better quality of <br /> life for the people  you care about the most 
+                  </h1>
+                  
+              </div>
+             <div className="horizontal-line"></div>
+      </div>
+    </div>
+    );
+};
+
+export default PersonalServicesBanner;
