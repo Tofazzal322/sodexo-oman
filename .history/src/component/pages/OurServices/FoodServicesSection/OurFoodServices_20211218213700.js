@@ -20,7 +20,7 @@ const OurFoodServices = () => {
             <img className="rounded" src={food.imgUrl} alt="" />
                 <h5 className="mt-2 fw-bold title-1"> {food.title} </h5>
                 <p className="mt-2 "> {food.paragraph} </p>
-                <Link to="/latestNews"> <Button className="button-color fw-bold"> Find out more</Button></Link>
+                <Link></Link>
           </Col>
         ))}
       </Row>
