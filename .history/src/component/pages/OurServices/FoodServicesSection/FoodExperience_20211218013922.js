@@ -11,7 +11,7 @@ const [index, setIndex] = useState(0);
   };
 
   useEffect(() => {
-    fetch("http://localhost:5000/inspired")
+    fetch("https://quiet-savannah-34726.herokuapp.com/inspired")
       .then((res) => res.json())
       .then((data) => setFoodServices(data));
   }, []);

@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 
-const url="http://localhost:5000/food-services"
+const url="https://quiet-savannah-34726.herokuapp.com/food-services"
 
 export const servicesSlice = createSlice({
   name: 'services',
