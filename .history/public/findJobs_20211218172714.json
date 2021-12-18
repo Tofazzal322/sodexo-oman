@@ -1,0 +1,62 @@
+[
+    {
+        "category":"findJobs",
+        "title":"Security Officer (Days) COVID-19 Testing",
+        "salary":"460",
+        "jobType":"Full Time",
+        "lastDate":" 28 December, 2021",
+        "postDate":"20 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    },
+    {
+        "category":"findJobs",
+        "title":"Account Manager Head Office",
+        "salary":"570",
+        "jobType":"Full Time",
+        "lastDate":" 22 December, 2021",
+        "postDate":"17 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    },
+    {
+        "category":"findJobs",
+        "title":"Unit Manager STS Nimr",
+        "salary":"600",
+        "jobType":"Part Time",
+        "lastDate":" 29 December, 2021",
+        "postDate":"21 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    },
+    {
+        "category":"findJobs",
+        "title":"Security Incharge (Night) COVID-19 Testing",
+        "salary":"250",
+        "jobType":"Full Time",
+        "lastDate":" 10 January, 2021",
+        "postDate":"28 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    },
+    {
+        "category":"findJobs",
+        "title":"Chef Cook (Days) Sultan Qabooss university",
+        "salary":"380",
+        "jobType":"Full Time",
+        "lastDate":" 12 january, 2021",
+        "postDate":"25 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    },
+    {
+        "category":"findJobs",
+        "title":"Senior Waiter  (Nights) Powertech Head Office",
+        "salary":"210",
+        "jobType":"Full Time",
+        "lastDate":" 8 january, 2021",
+        "postDate":"24 December, 2021",
+        "jobImg":"https://www.sodexojobs.co.uk//application/assets/20/images/header-img.jpg",
+        "status":"Pending"
+    }
+]
