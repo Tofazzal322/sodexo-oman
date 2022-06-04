@@ -7,7 +7,7 @@ const FacilityManagementBanner = () => {
   return (
     <div className="facility-banner-bg container-fluid">
       <div className="food-banner-main">
-        <div className="food-banner-title ">
+        <div className=" ">
           <h1 className="title-1 fw-bold ">Facilities Management Services</h1>
         </div>
         <div className="horizontal-line"></div>

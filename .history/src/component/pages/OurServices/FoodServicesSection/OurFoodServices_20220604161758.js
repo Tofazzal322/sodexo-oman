@@ -17,7 +17,7 @@ const OurFoodServices = () => {
       <Row className="mb-5">
         {ourFood.map((food) => (
           <Col className="mb-5" sm={12} md={6}>
-            <img className="rounded w-25" src={food.imgUrl} alt="" />
+            <img className="rounded " src={food.imgUrl} alt="" />
                 <h5 className="mt-2 fw-bold title-1"> {food.title} </h5>
                 <p className="mt-2 "> {food.paragraph} </p>
                 <Link to="/latestNews"> <Button className="button-color fw-bold"> Find out more</Button></Link>

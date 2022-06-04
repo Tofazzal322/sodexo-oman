@@ -5,7 +5,7 @@ const FacilityManagementBanner = () => {
   const books = useSelector((state) => state.books.discover);
   console.log(books);
   return (
-    <div className="facility-banner-bg container-fluid">
+    <div className="facility-banner-bg ">
       <div className="food-banner-main">
         <div className="food-banner-title ">
           <h1 className="title-1 fw-bold ">Facilities Management Services</h1>
