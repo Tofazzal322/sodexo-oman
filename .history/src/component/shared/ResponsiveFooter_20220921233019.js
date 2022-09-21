@@ -7,12 +7,12 @@ const ResponsiveFooter = () => {
         <body>
 		<footer class="footer-distributed">
 			<div class="footer-left text-light">
-                    <img className='text-light bg-light ps-2 pe-3 rounded pb-3' alt="logo" src={logo}/>
+                    <img className='text-light bg-light p-2' alt="logo" src={logo}/>
 				<h3>About<span>Sodexo</span></h3>
 				<p class="footer-links">
-					<a className='me-3' href="#">Home</a>
-					<a className='me-3' href="#">Blog</a>
-					<a className='me-3' href="#">About</a>
+					<a className='me-' href="#">Home</a>
+					<a href="#">Blog</a>
+					<a href="#">About</a>
 					<a href="#">Contact</a>
 				</p>
 				<p class="footer-company-name">© 2022 Sodexo Catering & Facility Management Company</p>

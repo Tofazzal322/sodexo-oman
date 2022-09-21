@@ -7,7 +7,7 @@ const ResponsiveFooter = () => {
         <body>
 		<footer class="footer-distributed">
 			<div class="footer-left text-light">
-                    <img className='text-light bg-light ps-2 pe-3 rounded pb-3' alt="logo" src={logo}/>
+                    <img className='text-light bg-light ps-2 pe-5 pb-3' alt="logo" src={logo}/>
 				<h3>About<span>Sodexo</span></h3>
 				<p class="footer-links">
 					<a className='me-3' href="#">Home</a>
