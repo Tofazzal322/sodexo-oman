@@ -53,7 +53,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home></Home>}></Route>
             <Route path="/home" element={<Home></Home>}></Route>
-            <Route path="/LtiHome" element={<LtiHome></LtiHome>}></Route>
+            <Route path="/LtiHome" element={<LtiHome></Home>}></Route>
             <Route path="/joinUs" element={<JoinUs></JoinUs>}></Route>
             <Route path="/login" element={<Login></Login>}></Route>
             <Route path="/register" element={<Register></Register>}></Route>
@@ -167,7 +167,7 @@ function App() {
               element={<PrivateRoute><JobSubmit></JobSubmit></PrivateRoute>}
             ></Route>
           </Routes>
-          <ResponsiveFooter ></ResponsiveFooter>
+          <ResponsiveFooter></ResponsiveFooter>
           {/* <Footer></Footer> */}
         </BrowserRouter>
       </AuthProvider>

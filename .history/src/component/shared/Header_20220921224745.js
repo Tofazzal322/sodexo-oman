@@ -11,7 +11,7 @@ const Header = () => {
   console.log(user);
 
   return (
-    <Navbar collapseOnSelect expand="lg" bg="light" className="m-0 p-0 navbar-size">
+    <Navbar collapseOnSelect expand="lg" bg="danger" >
       <Container>
         <Navbar.Brand to="/home">
           <img src={logo} alt="logo" />
@@ -129,13 +129,6 @@ const Header = () => {
               to="/home"
             >
               Home
-            </Nav.Link>
-            <Nav.Link
-              as={HashLink}
-              className="nav-items text-primary fw-bold"
-              to="/LtiHome"
-            >
-              LTI-Board
             </Nav.Link>
             <Nav.Link
               as={HashLink}

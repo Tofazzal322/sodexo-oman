@@ -133,9 +133,9 @@ const Header = () => {
             <Nav.Link
               as={HashLink}
               className="nav-items text-primary fw-bold"
-              to="/LtiHome"
+              to="/home"
             >
-              LTI-Board
+              LTI 
             </Nav.Link>
             <Nav.Link
               as={HashLink}

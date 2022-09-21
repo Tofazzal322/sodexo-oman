@@ -40,7 +40,6 @@ import {
 import JobApply from "./component/pages/Carrers/JobApply";
 import JobSubmit from "./component/pages/Carrers/JobSubmit";
 import ResponsiveFooter from "./component/shared/ResponsiveFooter";
-import LtiHome from "./component/pages/Home/LtiHome";
 
 library.add(fab, faCheckSquare, faCoffee, faDatabase);
 
@@ -53,7 +52,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home></Home>}></Route>
             <Route path="/home" element={<Home></Home>}></Route>
-            <Route path="/LtiHome" element={<LtiHome></LtiHome>}></Route>
+            <Route path="/LtiHome" element={<></Home>}></Route>
             <Route path="/joinUs" element={<JoinUs></JoinUs>}></Route>
             <Route path="/login" element={<Login></Login>}></Route>
             <Route path="/register" element={<Register></Register>}></Route>
@@ -167,7 +166,7 @@ function App() {
               element={<PrivateRoute><JobSubmit></JobSubmit></PrivateRoute>}
             ></Route>
           </Routes>
-          <ResponsiveFooter ></ResponsiveFooter>
+          <ResponsiveFooter></ResponsiveFooter>
           {/* <Footer></Footer> */}
         </BrowserRouter>
       </AuthProvider>

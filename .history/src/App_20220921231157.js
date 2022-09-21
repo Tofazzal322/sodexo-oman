@@ -167,7 +167,7 @@ function App() {
               element={<PrivateRoute><JobSubmit></JobSubmit></PrivateRoute>}
             ></Route>
           </Routes>
-          <ResponsiveFooter ></ResponsiveFooter>
+          <ResponsiveFooter className="mt-3"></ResponsiveFooter>
           {/* <Footer></Footer> */}
         </BrowserRouter>
       </AuthProvider>
